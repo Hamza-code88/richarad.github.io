@@ -1,0 +1,437 @@
+
+
+@media Screen and (max-width: 1312px){
+	body{
+		/*background: cyan;*/
+	}
+	.co img{
+		width: 80%;
+	}
+	.co-box{
+			background: #308788f0;
+	}
+	.co{
+	background: #308788f0;
+	width: 100%;
+	height: 141vh;
+	
+}
+	.co-col{
+		position: relative;
+	width:55%;
+	height: 23rem;
+	background: orange;
+	top: -33rem;
+	margin-left: 30rem;
+	text-align: right;
+	color: #fff;
+	}
+
+	
+	}
+
+	@media Screen and (max-width: 1023px){
+	
+	.menu a{
+		padding: 0;
+
+	}
+
+	header{
+		width: 100%
+	}
+}
+
+@media Screen and (max-width: 1130px){
+	
+	.co-col{
+		top: -28rem;
+		margin-left: 25rem;
+	}
+	.co{
+		
+			height: 100vh;
+	}
+}
+
+@media Screen and (max-width: 1000px){
+	
+	.a-right{
+		width: 50%;
+		height: 15rem;
+
+	}
+	.a-right h1{
+		font-size: 2.8rem;
+	}
+	.a-right p{
+		font-size: 1rem;
+	}
+	.co{
+		
+			height: 100vh;
+	}
+}
+
+@media Screen and (max-width: 900px){
+	
+	.a-right{
+		
+		top: 7rem;
+
+	}
+	.co-box{
+		background: blue;
+	}
+	.co{
+		
+			height: 100vh;
+	}
+	.co-col{
+		width: 60%;
+		height: 20rem;
+		top: -25rem;
+		margin-left: 20rem;
+	}
+	
+}
+
+@media Screen and (max-width: 830px){
+	
+
+	.btn-1{
+		width: 30%;
+		margin-left: 40rem;
+		top: 15rem;
+	}
+	.a-img{
+	width: 100%;
+	margin-left: 0;
+}
+	.a-right{
+		top: 4rem;
+		width: 80%;
+		text-align: center;
+	}
+	.a-right hr{
+	
+	margin-left: 4rem;
+}
+
+	.s-left h1{
+	font-size: 2.4rem;
+	}
+	.s-left hr{
+	
+	margin-left: 4rem;
+}
+
+
+
+	.co img{
+		width: 100%;
+	}
+	.co-col{
+		margin-left: 5rem;
+		width: 80%;
+	}
+}
+
+
+/*730*/
+
+@media Screen and (max-width: 730px){
+	
+
+	.s-row,.t-row{
+		display: block;
+	}
+	.s-col span{
+		
+		margin-left: 8rem;
+	}
+	.t-left{
+		margin-top: 2rem;
+	}
+
+
+	
+}
+
+
+
+/*670*/
+@media Screen and (max-width: 670px){
+	
+	nav{
+	
+	}
+	.menu{
+		background:orange;
+		margin-top: 15rem;
+		display: none;
+	}
+	.menu a{
+		
+		display: block;
+		position: relative;
+		margin-top: 2rem;
+	}
+
+	.bar-icon{
+		display: block;
+	}
+	header h1{
+		font-size: 4rem;
+	}
+	header h3{
+		padding-right: 15rem;
+	}
+	.co-col{
+		
+		top: -10rem;
+	}
+}
+
+
+/*580*/
+@media Screen and (max-width: 580px){
+	
+	header h1{
+		font-size: 3.8rem;
+	}
+	header h3{
+		padding-right: 12rem;
+	}
+	.btn-1{
+		width: 35%;
+		
+	}
+
+}
+
+/*530px*/
+@media Screen and (max-width: 530px){
+	header h1{
+		font-size: 3.5rem;
+	}
+	header h3{
+		padding-right: 10rem;
+	}
+}
+
+/*500px*/
+@media Screen and (max-width: 500px){
+
+	header h1{
+		font-size: 3rem;
+	}
+	header h3{
+		padding-right: 8rem;
+	}
+	.s-col{
+		display: block;
+	}
+	.s-col span{
+		border: none;
+	}
+	.s-col em{
+		text-align: center;
+	}
+	.t-box{
+		top: 150rem;
+	}
+	
+	.t-col span{
+	
+		flex-basis: 40%;
+		position: relative;
+		left: -6rem;
+	}
+	.t-col span img{
+		margin-top: 5rem;
+		width: 100%;
+	}
+	.t-col{
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+	.t-col em{
+		text-align: center;
+	
+		margin-top: 4rem;
+			flex-basis: 60%;
+		margin-left: -4rem;
+		text-align: left;
+	}
+	.t-col em strong{
+		font-size: 1.4rem;
+	}
+	.t-col em p{
+		font-size: 1.2rem;
+	}
+	.co-box{
+		top: 220rem;
+	}
+}
+
+
+/*470px*/
+@media Screen and (max-width: 470px){
+		header h1{
+		font-size: 3rem;
+	}
+	header h3{
+		padding-right: 6rem;
+	}
+	.btn-1{
+		width: 45%;
+		margin-left: 35rem;
+		top: 15rem;
+	}
+	.a-right{
+		top: 10rem;
+		left: 3rem;
+	}
+	.btn-2{
+		padding: .2rem 4rem;
+		left: 0;
+	}
+	.co-col{
+		margin-left: 2rem;
+		width: 90%;
+	}
+}
+
+
+/*440px*/
+@media Screen and (max-width: 440px){
+	header h1{
+		font-size: 2.8rem;
+		left: -2rem;
+	}
+	header h3{
+		padding-right: 4rem;
+		left: 2rem;
+	}
+
+}
+/*380px*/
+@media Screen and (max-width: 380px){
+	.a-right h1{
+		font-size: 2rem;
+	}
+	.a-right hr{
+		margin-left: 1rem;
+	}
+
+	.t-col em p{
+		font-size: 1rem;
+	}
+
+	.co-col h1{
+		font-size: 2rem;
+	}
+	.co-col a{
+		font-size: .8rem;
+	}
+
+	.t-box{
+		top: 160rem;
+	}
+}
+@media Screen and (max-width: 370px){
+	header h1{
+		font-size: 2.5rem;
+		left: -2rem;
+	}
+	header h3{
+		padding-right: 2rem;
+		left: 2rem;
+	}
+	.btn-1{
+		width: 55%;
+		margin-left: 33rem;
+		top: 15rem;
+	}
+}
+
+@media Screen and (max-width: 350px){
+
+	header h1{
+		font-size: 2rem;
+		left: -2rem;
+	}
+	header h3{
+		padding-right: .5rem;
+		left: 2rem;
+	}
+	.co-col{
+		margin-left: 1rem;
+		text-align: center;
+	}
+	.co-col hr{
+		margin-left: 2rem;
+	}
+	.a-right p{
+		font-size: .9rem
+	}
+}
+
+@media Screen and (max-width: 310px){
+	.logo h1{
+		font-size: 2rem;
+		margin-left: -1rem;
+	}
+		.logo h1 span{
+		font-size: 2rem;
+
+	}
+	header h3{
+		font-size: 1rem;
+	}
+}
+@media Screen and (max-width: 270px){
+
+	header h3{
+		font-size: .7rem;
+	}
+	.btn-1{
+		width: 65%;
+		margin-left: 30rem;
+		font-size: .8rem;
+	}
+	.a-right{
+		width: 100%;
+		height: 20rem;
+		left: 0;
+	}
+}
+@media Screen and (max-width: 230px){
+	.btn-1{
+		width: 75%;
+		margin-left: 30rem;
+		font-size: .8rem;
+	}
+	.t-left h1{
+		font-size: 1.8rem;
+	}
+	.s-left hr{
+		margin-left: 2rem;
+	}
+	.t-left hr{
+		margin-left: 2rem;
+	}
+}
+
+@media Screen and (max-width: 200px){
+	header h3{
+		font-size: .5rem;
+		
+	}
+	.btn-1{
+		width: 85%;
+		margin-left: 29rem;
+	}
+}
